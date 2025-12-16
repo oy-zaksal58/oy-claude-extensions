@@ -187,22 +187,14 @@ git pull origin main
 
 ## 🤝 기여하기
 
-### 새 명령어 추가
+새로운 Command, Skill, Hook을 추가하고 싶으신가요?
 
-1. `commands/` 폴더에 `.md` 파일 생성
-2. Frontmatter에 description, allowed-tools 설정
-3. PR 생성
+👉 **[CONTRIBUTING.md](./CONTRIBUTING.md)** 를 참고해주세요!
 
-### 새 Hook 추가
-
-1. `hooks/` 폴더에 `.sh` 스크립트 생성
-2. `settings.json`에 등록
-3. PR 생성
-
-### PR 규칙
-
-- 명령어/스킬 추가 시 README 업데이트
-- Hook 추가 시 테스트 결과 첨부
+- Slash Command 추가 방법
+- Skill 추가 방법
+- Hook 추가 방법
+- PR 규칙 및 코드 리뷰 기준
 
 ---
 
